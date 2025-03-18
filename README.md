@@ -1,5 +1,5 @@
 # Link bài Spring On Kubernetes:
- https://github.com/spring-guides/top-spring-on-kubernetes
+https://github.com/DatPhan06/top-spring-on-kubernetes
 
 # Spring Boot với Docker
 
@@ -56,4 +56,4 @@ Sau khi chạy, truy cập http://localhost:8080 để xem kết quả.
  
 
 # Link bài Spring On Kubernetes:
- https://github.com/spring-guides/top-spring-on-kubernetes
+https://github.com/DatPhan06/top-spring-on-kubernetes
