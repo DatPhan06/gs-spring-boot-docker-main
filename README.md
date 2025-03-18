@@ -1,3 +1,6 @@
+# Link bài Spring On Kubernetes:
+ https://github.com/spring-guides/top-spring-on-kubernetes
+
 # Spring Boot với Docker
 
 Đây là bài tập thực hành về việc containerize ứng dụng Spring Boot sử dụng Docker.
@@ -51,3 +54,6 @@ docker run -p 8080:8080 springio/gs-spring-boot-docker
 
 Sau khi chạy, truy cập http://localhost:8080 để xem kết quả.
  
+
+# Link bài Spring On Kubernetes:
+ https://github.com/spring-guides/top-spring-on-kubernetes
